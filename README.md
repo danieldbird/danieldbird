@@ -1,5 +1,5 @@
 <h1 style="color:#ffffff;margin:0;">Daniel Bird</h1>
-<p style="color:gray;">Kia Ora! My name is Daniel. I am a full stack software developer with a passion for technology and building things with code and my hands. I started my journey as a technical writer in Singapore for a GPS company, then returned to Australia as an account manager of a software development company.</p>
+<p style="color:gray;">Kia Ora! 👋 My name is Daniel. I am a full stack software developer with a passion for technology and building things with code and my hands. I started my journey as a technical writer in Singapore for a GPS company, then returned to Australia as an account manager of a software development company.</p>
 
 <p style="color:gray;">After working for a number of companies both locally and overseas, I wanted more time with my family, so I started and have run a successful service business for the past 10 years in Auckland with my wife.</p>
 
