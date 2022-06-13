@@ -11,7 +11,7 @@
 
 <p style="color:gray;">What sets me apart other than my technical ability, is my genuine care, honesty and proactiveness. I have the ability to look at challenges as opportunities, and I would love the opportunity to challenge myself and continue to improve both personally and professionally in a software development role.</p>
 
-<h2>Tech Experience<h2>
+<h2>Tech Experience</h2>
 <ul>
   <li>Javascript</li>
   <li>React</li>
