@@ -22,7 +22,15 @@
   <li>MongoDB</li>
   <li>Knex.js</li>
   <li>Express.js</li>
+  <li>Jest</li>
+  <li>Docker</li>
   <li>Agile principles</li>
+</ul>
+
+<h2>Currently learning</h2>
+<ul>
+  <li>Typescript</li>
+  <li>Next.js</li>
 </ul>
 
   <p>Take a look at some of my recent projects: <a href="https://www.danieldbird.com/" target="_blank">www.danieldbird.com</a></p>
