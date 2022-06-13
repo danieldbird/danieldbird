@@ -12,16 +12,18 @@
 <p style="color:gray;">What sets me apart other than my technical ability, is my genuine care, honesty and proactiveness. I have the ability to look at challenges as opportunities, and I would love the opportunity to challenge myself and continue to improve both personally and professionally in a software development role.</p>
 
 <h2>Tech Experience<h2>
-  - Javascript
-  - React
-  - HTML5
-  - CSS3
-  - Firebase
-  - MySQL
-  - MongoDB
-  - Knex.js
-  - Express.js
-  - Agile principles
+<ul>
+  <li>Javascript</li>
+  <li>React</li>
+  <li>HTML5</li>
+  <li>CSS3</li>
+  <li>Firebase</li>
+  <li>MySQL</li>
+  <li>MongoDB</li>
+  <li>Knex.js</li>
+  <li>Express.js</li>
+  <li>Agile principles</li>
+</ul>
 
   <p>Take a look at some of my recent projects: <a href="https://www.danieldbird.com/" target="_blank">www.danieldbird.com</a></p>
 
