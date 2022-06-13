@@ -5,7 +5,7 @@
 
 <p style="color:gray;">I would continue to take every opportunity to keep up with the state of development and code during this time. The fulfilment I get from problem solving with code and seeing tangible results is something I have not found anywhere else. It became clear that software development and building things was where I wanted to be and where I felt I contributed the most.</p>
 
-<p style="color:gray;">My core skills and passion is specifically <strong>Javascript</strong> with a focus on <strong>React</strong>, and now <strong>Next.js.</strong></p>
+<p style="color:gray;">My core skills and passion is specifically <strong style="color:pink;">Javascript</strong> with a focus on <strong style="color:pink;">React</strong>, and now <strong style="color:pink;">Next.js.</strong></p>
 
 <p style="color:gray;">I recently decided to make the switch to software development as a full time job, and attended a software development course to be confident there were no gaps in my knowledge. I was one of the strongest technically, and used my prior knowledge to help others while also improving and solidifying my own knowledge and public speaking. I sincerely love learning new things, collaborating as part of a team and challenging myself.</p>
 
