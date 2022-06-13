@@ -7,6 +7,8 @@
 
 <p style="color:gray;">My core skills and passion is specifically <strong style="color:pink;">Javascript</strong> with a focus on <strong style="color:pink;">React</strong>, and now <strong style="color:pink;">Next.js.</strong></p>
 
+<p style="color:red;">test</p>
+
 <p style="color:gray;">I recently decided to make the switch to software development as a full time job, and attended a software development course to be confident there were no gaps in my knowledge. I was one of the strongest technically, and used my prior knowledge to help others while also improving and solidifying my own knowledge and public speaking. I sincerely love learning new things, collaborating as part of a team and challenging myself.</p>
 
 <p style="color:gray;">What sets me apart other than my technical ability, is my genuine care, honesty and proactiveness. I have the ability to look at challenges as opportunities, and I would love the opportunity to challenge myself and continue to improve both personally and professionally in a software development role.</p>
