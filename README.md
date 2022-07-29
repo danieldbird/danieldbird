@@ -33,7 +33,7 @@
   <li>Next.js</li>
 </ul>
 
-<p>Take a look at some of my recent projects: <a href="https://www.danieldbird.com/" target="_blank">www.danieldbird.com</a></p>
+<p>Take a look at some of my recent projects: <a href="https://www.danieldbird.com/projects" target="_blank">www.danieldbird.com/projects</a></p>
 
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danieldbird&count_private=true&show_icons=true&theme=radical)
 
